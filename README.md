@@ -88,3 +88,13 @@
 - The system must work on modern web browsers (Chrome, Firefox, Safari).  
 - The system must be able to integrate with external movie databases.
 
+## OpenAPI
+
+![Auth service](API_docs/auth_open_api.png)
+![Comments service](API_docs/comments_open_api.png)
+![Movie service](API_docs/movie_open_api.png)
+![Ratings service](API_docs/ratings_open_api.png)
+![Tags service](API_docs/tags_open_api.png)
+![User service](API_docs/user_open_api.png)
+
+
